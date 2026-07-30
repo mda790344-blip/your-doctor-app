@@ -8,4 +8,4 @@
 // - Once deployed (e.g. to Render, Railway, Fly.io):
 //   use your deployed URL, e.g. "https://your-app.onrender.com"
 
-export const API_BASE_URL = "http://localhost:3000";
+export const API_BASE_URL = "https://your-doctor-app.onrender.com";
